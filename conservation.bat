@@ -1,0 +1,1 @@
+@py.exe C:\Michael\Python\PyAutoGui\conservation.py
