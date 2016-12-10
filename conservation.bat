@@ -1,1 +1,1 @@
-@py.exe C:\Michael\Python\PyAutoGui\conservation.py
+@py.exe C:\Michael\Python\BatteryConservationToggler
